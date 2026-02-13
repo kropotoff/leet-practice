@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# MacOS
+.DS_Store
+
+# Environment files
+.env
+
+# Test coverage
+coverage/
+
+# Build output
+dist/
+
+# IDEs
+.vscode/
+.idea/
